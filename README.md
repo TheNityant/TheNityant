@@ -12,7 +12,7 @@ I'm a web and app developer, passionate about building interactive web applicati
 
 - 🔭 I’m currently working on **TFLite object detection model**, **Developing app for e-commerce**.
 - 🌱 I’m currently learning **TENSORFLOW, FLUTTER, MONGO DB, SQL.**
-- 💬 Ask me about **Bakend Development, App Developemnet, Object Detection models.**
+- 💬 Ask me about **Backend Development, App Developemnet, Object Detection models.**
 - 📫 How to reach me: **nityant.tiwari2404@gmail.com/LinkedIn].**
 
 ---
