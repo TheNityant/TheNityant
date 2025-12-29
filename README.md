@@ -18,6 +18,13 @@ I'm a web and app developer, passionate about building interactive web applicati
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css" />
+  </a>
+</p>
+
 **LANGUAGES    :**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
