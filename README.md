@@ -15,6 +15,10 @@ I'm a web and app developer, passionate about building interactive web applicati
 - 💬 Ask me about **Backend Development, App Developemnet, Object Detection models.**
 - 📫 How to reach me: **nityant.tiwari2404@gmail.com/LinkedIn].**
 
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,dart,kotlin,flutter,tensorflow,opencv,mongodb,html,css,arduino,git,github,figma&theme=dark)](https://skillicons.dev)
+
 ---
 
 ## 🛠️ Tech Stack
