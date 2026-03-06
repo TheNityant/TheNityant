@@ -49,4 +49,10 @@ I'm a web and app developer, passionate about building interactive web applicati
 ---
 
 ## 🐍 My Contributions
-![Snake animation](https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.TheNityantcontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.TheNityantcontent.com">
+  <img alt="github contribution grid snake animation" src="https://raw.TheNityantcontent.com">
+</picture>
+
