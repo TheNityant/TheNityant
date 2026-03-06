@@ -50,9 +50,12 @@ I'm a web and app developer, passionate about building interactive web applicati
 
 ## 🐍 My Contributions
 
+### My Contribution Snake 🐍
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.TheNityantcontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.TheNityantcontent.com">
-  <img alt="github contribution grid snake animation" src="https://raw.TheNityantcontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
 </picture>
+
 
