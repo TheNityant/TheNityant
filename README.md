@@ -12,10 +12,8 @@ I'm a web and app developer, passionate about building interactive web applicati
 
 - 🔭 I’m currently working on **TFLite object detection model**, **Developing app for e-commerce**.
 - 🌱 I’m currently learning **TENSORFLOW, FLUTTER, MONGO DB, SQL.**
-- 💬 Ask me about **Backend Development, App Develpemnet, Object Detection models.**
-- 📫 How to reach me: **nityant.tiwari2404@gmail.com/LinkedIn].**
-
-
+- 💬 Ask me about **Backend Development, App Development, Object Detection models.**
+- 📫 How to reach me: **nityant.tiwari2404@gmail.com**
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,dart,kotlin,flutter,tensorflow,opencv,mongodb,html,css,arduino,git,github,figma&theme=dark)](https://skillicons.dev)
 
@@ -42,19 +40,18 @@ I'm a web and app developer, passionate about building interactive web applicati
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app" height="150" alt="languages graph" />
 </div>
 
 ---
 
 ## 🐍 My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net">
   <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net">
 </picture>
 
-
-
-
+---
