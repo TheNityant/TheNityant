@@ -22,7 +22,6 @@
 ---
 
 ## 🧠 Currently Exploring
-## 🧠 What I'm Exploring
 
 I'm currently diving into the foundations of modern AI — from
 Transformer architectures and LLM internals to AI engineering,
