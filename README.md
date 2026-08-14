@@ -15,27 +15,27 @@ I'm a web and app developer, passionate about building interactive web applicati
 - 💬 Ask me about **Backend Development, App Development, Object Detection models.**
 - 📫 How to reach me: **nityant.tiwari2404@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,dart,kotlin,flutter,tensorflow,opencv,mongodb,html,css,arduino,git,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
 ## 🛠️ Tech Stack
 **LANGUAGES    :**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://shields.io)
+![C](https://shields.io)
+![C++](https://shields.io)
+![Java](https://shields.io)
 
 **MACHINE LEARNING AND AI    :**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://shields.io)
+![OpenCV](https://shields.io)
 ![YOLOv8](https://shields.io)
 
 **APP DEVELOPMENT    :**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://shields.io)
 
 **EMBEDDED SYSTEMS    :**
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Espressif](https://shields.io)
 
 
 ## 📊 GitHub Stats
