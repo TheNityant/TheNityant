@@ -1,57 +1,84 @@
 # PROFILE
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+I+am+Nityant+👾;" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=I+Build+Robotics+Systems;I+Train+AI+Models+Locally;I+Love+Embedded+Systems" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <strong>AI / ML Developer exploring the foundations of modern intelligent systems — from Transformers and LLM internals to AI engineering and deployment.</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:nityant.tiwari2404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-## 🚀 About Me
-I'm a web and app developer, passionate about building interactive web applications and automation tools.
-
-- 🔭 I’m currently working on **TFLite object detection model**, **Developing app for e-commerce**.
-- 🌱 I’m currently learning **TENSORFLOW, FLUTTER, MONGO DB, SQL.**
-- 💬 Ask me about **Backend Development, App Development, Object Detection models.**
-- 📫 How to reach me: **nityant.tiwari2404@gmail.com**
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,dart,kotlin,flutter,tensorflow,opencv,mongodb,html,css,arduino,git,github,figma&theme=dark)](https://skillicons.dev)
+  <a href="https://github.com/NityantTiwari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-**LANGUAGES    :**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🧠 Currently Exploring
 
-**MACHINE LEARNING AND AI    :**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=null&logoColor=black)
+- Transformer architectures and **LLM internals**
+- AI engineering and intelligent system pipelines
+- Model reasoning, orchestration, and agentic systems
+- Building and deploying AI-powered applications
 
-**APP DEVELOPMENT    :**
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+**Background:** Backend & full-stack development · Computer Vision · Embedded Systems · Robotics
 
-**EMBEDDED SYSTEMS    :**
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+---
 
+## ⚙️ Technical Focus
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app" height="150" alt="languages graph" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" alt="AI and ML technologies" />
+
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,mongodb,mysql&theme=dark" alt="Backend and data technologies" />
+
+### Applications
+<img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,js,nextjs&theme=dark" alt="Application technologies" />
+
+### Systems & Tools
+<img src="https://skillicons.dev/icons?i=arduino,git,github&theme=dark" alt="Systems and development tools" />
+
 </div>
 
 ---
 
-## 🐍 My Contributions
+## 🚀 Selected Work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net">
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net">
-</picture>
+| Project | Focus |
+|---|---|
+| 🧠 **TokenPrint** | Exploring and visualizing the internal processing of LLMs |
+| 👁️ **Computer Vision Projects** | Object detection and neural-network based experiments |
+| 🌐 **Full-Stack Systems** | Backend, APIs, databases, and deployed applications |
+| 🤖 **Robotics & Embedded Systems** | Previous work involving autonomous and robotic systems |
+
+> More projects and experiments are being documented and published progressively.
 
 ---
+
+## 📊 GitHub
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NityantTiwari&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityantTiwari&layout=compact&hide_border=true&theme=dark&langs_count=8" height="170" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <i>Building, breaking, understanding, and building again.</i>
+
+</div>
