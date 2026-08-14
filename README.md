@@ -1,7 +1,7 @@
 # PROFILE
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io">
     <img src="https://demolab.com+👾;I+Build+Robotics+Systems;I+Train+AI+Models+Locally;I+Love+Embedded+Systems" alt="Typing SVG" />
   </a>
 </div>
@@ -27,7 +27,7 @@ I am a software engineer operating at the intersection of **Mobile Development, 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <strong>💻 Core Languages</strong><br>
+      <strong>💻 Core Languages</strong><br><br>
       <img src="https://shields.io" />
       <img src="https://shields.io" />
       <img src="https://shields.io" /><br>
@@ -35,7 +35,7 @@ I am a software engineer operating at the intersection of **Mobile Development, 
       <img src="https://shields.io" />
     </td>
     <td valign="top" width="50%">
-      <strong>🧠 Machine Learning & Vision</strong><br>
+      <strong>🧠 Machine Learning & Vision</strong><br><br>
       <img src="https://shields.io" />
       <img src="https://shields.io" />
       <img src="https://shields.io" />
@@ -43,12 +43,12 @@ I am a software engineer operating at the intersection of **Mobile Development, 
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>📱 Mobile Ecosystems</strong><br>
+      <br><strong>📱 Mobile Ecosystems</strong><br><br>
       <img src="https://shields.io" />
       <img src="https://shields.io" />
     </td>
     <td valign="top" width="50%">
-      <strong>🔌 Embedded Hardware</strong><br>
+      <br><strong>🔌 Embedded Hardware</strong><br><br>
       <img src="https://shields.io" />
       <img src="https://shields.io" />
     </td>
