@@ -22,33 +22,28 @@
 ---
 
 ## 🧠 Currently Exploring
+## 🧠 What I'm Exploring
 
-- Transformer architectures and **LLM internals**
-- AI engineering and intelligent system pipelines
-- Model reasoning, orchestration, and agentic systems
-- Building and deploying AI-powered applications
+I'm currently diving into the foundations of modern AI — from
+Transformer architectures and LLM internals to AI engineering,
+reasoning systems, and deployment.
 
-**Background:** Backend & full-stack development · Computer Vision · Embedded Systems · Robotics
+My approach is simple: understand what's happening underneath,
+then build with it.
 
----
+### 🔨 Building
 
-## ⚙️ Technical Focus
+- **TokenPrint** — Exploring and visualizing the internal computation of language models.
+- **LLM Engineering Notebook** — A structured exploration of LLM architecture, mechanics, and engineering.
 
-<div align="center">
+### ⚙️ Technical Focus
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" alt="AI and ML technologies" />
+**AI / ML** · Python · Transformers · LLMs · TensorFlow · OpenCV  
+**Backend** · Java · Spring Boot · FastAPI · REST · SQL · MongoDB  
+**Applications** · Dart · Kotlin · Flutter · JavaScript / Next.js  
+**Systems** · ESP32 · Arduino · Git · GitHub
 
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=java,spring,fastapi,mongodb,mysql&theme=dark" alt="Backend and data technologies" />
-
-### Applications
-<img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,js,nextjs&theme=dark" alt="Application technologies" />
-
-### Systems & Tools
-<img src="https://skillicons.dev/icons?i=arduino,git,github&theme=dark" alt="Systems and development tools" />
-
-</div>
+**Background:** Computer Vision · Embedded Systems · Robotics · Full-Stack Development
 
 ---
 
