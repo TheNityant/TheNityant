@@ -59,18 +59,6 @@ then build with it.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NityantTiwari&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityantTiwari&layout=compact&hide_border=true&theme=dark&langs_count=8" height="170" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
   <i>Building, breaking, understanding, and building again.</i>
