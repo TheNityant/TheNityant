@@ -50,7 +50,7 @@ then build with it.
 
 | Project | Focus |
 |---|---|
-| 🧠 **TokenPrint** | Exploring and visualizing the internal processing of LLMs |
+| 🧠 **LLM_Visualizer** | Exploring and visualizing the internal processing of LLMs |
 | 👁️ **Computer Vision Projects** | Object detection and neural-network based experiments |
 | 🌐 **Full-Stack Systems** | Backend, APIs, databases, and deployed applications |
 | 🤖 **Robotics & Embedded Systems** | Previous work involving autonomous and robotic systems |
