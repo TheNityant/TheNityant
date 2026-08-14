@@ -1,9 +1,7 @@
 # PROFILE
 
 <div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com+👾;I+Build+Robotics+Systems;I+Train+AI+Models+Locally;I+Love+Embedded+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://demolab.com+👾;I+Build+Robotics+Systems;I+Train+AI+Models+Locally;I+Love+Embedded+Systems" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -16,51 +14,34 @@ I am a software engineer operating at the intersection of **Mobile Development, 
 ---
 
 ## 🛠️ Tech Stack & Skills
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev" alt="My Skills Stack" />
   </a>
 </div>
 
-<br>
+### 💻 Core Languages
+![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![Java](https://shields.io) ![Dart](https://shields.io)
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>💻 Core Languages</strong><br><br>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>🧠 Machine Learning & Vision</strong><br><br>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <br><strong>📱 Mobile Ecosystems</strong><br><br>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td valign="top" width="50%">
-      <br><strong>🔌 Embedded Hardware</strong><br><br>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
+### 🧠 Machine Learning & Vision
+![TensorFlow](https://shields.io) ![OpenCV](https://shields.io) ![YOLOv8](https://shields.io)
+
+### 📱 Mobile Ecosystems & Infrastructure
+![Flutter](https://shields.io) ![MongoDB](https://shields.io)
+
+### 🔌 Embedded Hardware
+![Espressif](https://shields.io) ![Arduino](https://shields.io)
 
 ---
 
 ## 📊 Engineering Metrics
+
 <div align="center">
-  <img src="https://vercel.app" height="180" alt="Nityant's GitHub Stats" />
-  <img src="https://vercel.app" height="180" alt="Nityant's Top Languages" />
+  <img src="https://vercel.app" height="180" alt="GitHub Stats" />
+  <img src="https://vercel.app" height="180" alt="Top Languages" />
 </div>
 
 ---
+
+
