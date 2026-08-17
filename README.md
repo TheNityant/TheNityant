@@ -1,15 +1,15 @@
 # PROFILE
 
-
 <img
-  src="https://github.com/TheNityant/TheNityant/blob/main/assests/second_final_nityant_particle_portrait_square_fixed_v2.gif"
-  width="290"
+  align="right"
+  src="https://github.com/TheNityant/TheNityant/blob/main/assets/second_final_nityant_particle_portrait_square_fixed_v2.gif?raw=true"
+  width="300"
   alt="Animated neural tensor portrait"
 />
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=35&pause=800&color=FFA500&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=35&pause=800&color=FFA500&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
     alt="Typing SVG"
   />
 </p>
