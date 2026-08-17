@@ -1,15 +1,12 @@
 # PROFILE
 
-<img
-  align="right"
-  src="https://github.com/TheNityant/TheNityant/blob/main/assests/second_final_nityant_particle_portrait_square_fixed_v2.gif"
-  width="300"
-  alt="Animated neural tensor portrait"
-/>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=35&pause=800&color=FFA500&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=35&pause=800&color=FFA500&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
     alt="Typing SVG"
   />
 </p>
@@ -47,7 +44,6 @@
       alt="Email"
     />
   </a>
-
   <a href="https://github.com/TheNityant">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -56,7 +52,16 @@
   </a>
 </p>
 
-<br clear="right">
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://github.com/TheNityant/TheNityant/blob/main/assests/second_final_nityant_particle_portrait_square_fixed_v2.gif"
+        width="250"
+        alt="Animated neural tensor portrait"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -99,7 +104,5 @@ then build with it.**
 ---
 
 <div align="center">
-
-<i>Building, breaking, understanding, and building again.</i>
-
+  <i>Building, breaking, understanding, and building again.</i>
 </div>
