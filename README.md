@@ -40,7 +40,7 @@
 <td width="34%" align="center" valign="middle">
 
 <img
-  src="./assets/neural-portrait.gif"
+  src="./assets/second_final_nityant_particle_portrait_square_fixed_v2.gif"
   width="285"
   alt="Animated neural tensor portrait"
 />
