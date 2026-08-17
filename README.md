@@ -1,11 +1,9 @@
 # PROFILE
 
-<img
-  align="right"
-  src="./assets/second_final_nityant_particle_portrait_square_fixed_v2.gif"
-  width="290"
-  alt="Animated neural tensor portrait"
-/>
+<img src="https://raw.githubusercontent.com/TheNityant/TheNityant/main/assets/second_final_nityant_particle_portrait_square_fixed_v2.gif"
+     width="290"
+     align="right"
+     alt="Animated neural tensor portrait">
 
 <p align="center">
   <img
