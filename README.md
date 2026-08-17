@@ -1,6 +1,5 @@
 # PROFILE
 
-# PROFILE
 
 <p align="center">
   <picture>
