@@ -1,5 +1,5 @@
 # PROFILE
-![Neural portrait](./assets/second_final_nityant_particle_portrait_square_fixed_v2.gif)
+![Neural portrait](https://raw.githubusercontent.com/TheNityant/TheNityant/main/assets/second_final_nityant_particle_portrait_square_fixed_v2.gif)
 <img src="https://raw.githubusercontent.com/TheNityant/TheNityant/main/assets/second_final_nityant_particle_portrait_square_fixed_v2.gif"
      width="290"
      align="right"
