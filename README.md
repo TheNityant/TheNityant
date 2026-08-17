@@ -2,7 +2,7 @@
 
 
 <img
-  src="https://raw.githubusercontent.com/TheNityant/TheNityant/main/assets/second_final_nityant_particle_portrait_square_fixed_v2.gif"
+  src="https://github.com/TheNityant/TheNityant/blob/main/assests/second_final_nityant_particle_portrait_square_fixed_v2.gif"
   width="290"
   alt="Animated neural tensor portrait"
 />
