@@ -2,40 +2,40 @@
 
 <img
   align="right"
-  src="https://github.com/TheNityant/TheNityant/blob/main/assests/github_nityant_particle_portrait_github_bg_v2.gif"
+  src="https://raw.githubusercontent.com/TheNityant/TheNityant/main/assests/github_nityant_particle_portrait_github_bg_v2.gif"
   width="265"
   alt="Animated neural tensor portrait"
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=32&pause=800&color=FFA500&vCenter=true&width=560&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=800&color=FFA500&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
   alt="Typing SVG"
 />
 
 <br>
 
 <strong>
-AI / ML Developer exploring the foundations of modern intelligent systems —
-from Transformers and LLM internals to AI engineering and deployment.
+Software Developer exploring AI engineering — from Transformers and LLM internals
+to intelligent systems, backend engineering, and deployment.
 </strong>
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/AI%20%2F%20ML-8E75B2?style=for-the-badge&logo=google&logoColor=white"
-  alt="AI / ML"
+  src="https://img.shields.io/badge/AI%20Engineering-FFA500?style=for-the-badge&logoColor=white"
+  alt="AI Engineering"
 />
 <img
-  src="https://img.shields.io/badge/LLMs-6D5DFB?style=for-the-badge&logo=openai&logoColor=white"
-  alt="LLMs"
+  src="https://img.shields.io/badge/LLM%20Internals-30363D?style=for-the-badge&logo=openai&logoColor=white"
+  alt="LLM Internals"
 />
 <img
-  src="https://img.shields.io/badge/Backend-2F81F7?style=for-the-badge&logo=serverless&logoColor=white"
+  src="https://img.shields.io/badge/Backend-30363D?style=for-the-badge&logo=serverless&logoColor=white"
   alt="Backend"
 />
 <img
-  src="https://img.shields.io/badge/Systems-FF9F1C?style=for-the-badge&logo=arduino&logoColor=white"
-  alt="Systems"
+  src="https://img.shields.io/badge/Software%20Systems-30363D?style=for-the-badge&logoColor=white"
+  alt="Software Systems"
 />
 
 <br><br>
@@ -61,26 +61,31 @@ from Transformers and LLM internals to AI engineering and deployment.
 
 ## 🧠 Currently Exploring
 
-I'm currently diving into the foundations of modern AI — from
-Transformer architectures and LLM internals to AI engineering,
-reasoning systems, and deployment.
+I'm diving into the foundations of modern AI — from Transformer
+architectures and LLM internals to AI engineering, reasoning systems,
+and deployment.
 
 My approach is simple: **understand what's happening underneath,
 then build with it.**
 
-### 🔨 Building
+---
 
-- 🧠 **LLM Visualizer** — Exploring and visualizing the internal computation of language models.
-- 📓 **LLM Engineering Notebook** — A structured exploration of LLM architecture, mechanics, and engineering.
+## 🔨 Building
 
-### ⚙️ Technical Focus
+- 🧠 **[LLM Visualizer](https://github.com/TheNityant/LLM_Visualizer)** — Exploring and visualizing model internals, tensors, layers, and token-level computation.
 
-**AI / ML** · Python · Transformers · LLMs · TensorFlow · OpenCV  
-**Backend** · Java · Spring Boot · FastAPI · REST · SQL · MongoDB  
-**Applications** · Dart · Kotlin · Flutter · JavaScript / Next.js  
-**Systems** · STM32 · ESP32 · Git · GitHub
+- 📓 **[LLM Engineering Notebook](https://github.com/TheNityant/LLM_Notebook)** — An understanding-first exploration of LLM architecture, mechanics, and AI engineering.
 
-**Background:** Computer Vision · Embedded Systems · Robotics · Full-Stack Development
+---
+
+## ⚙️ Technical Focus
+
+**AI Engineering** · Python · Transformers · LLMs · Model Internals · AI Systems  
+**Backend** · Java · Spring Boot · FastAPI · REST APIs · SQL · PostgreSQL · MongoDB  
+**Applications** · Dart · Kotlin · Flutter · JavaScript · Next.js  
+**Embedded & Tools** · STM32 · ESP32 · Git · GitHub
+
+**Background:** TensorFlow · OpenCV · Computer Vision · Embedded Systems · Robotics · Full-Stack Development
 
 ---
 
@@ -88,10 +93,10 @@ then build with it.**
 
 | Project | Focus |
 |---|---|
-| 🧠 **LLM Visualizer** | Exploring and visualizing the internal processing of language models |
-| 👁️ **Computer Vision Projects** | Object detection and neural-network based experiments |
-| 🌐 **Full-Stack Systems** | Backend, APIs, databases, and deployed applications |
-| 🤖 **Robotics & Embedded Systems** | Previous work involving autonomous and robotic systems |
+| 🧠 **[LLM Visualizer](https://github.com/TheNityant/LLM_Visualizer)** | Interactive exploration of LLM internals, model layers, tensors, and token-level computation |
+| 📓 **[LLM Engineering Notebook](https://github.com/TheNityant/LLM_Notebook)** | Structured, understanding-first study of LLM architecture, mechanics, and engineering |
+| 📱 **[Habit Tracker — Full Stack](https://github.com/TheNityant/HABIT_TRACKER-Full-Stack-app)** | Flutter + Spring Boot + PostgreSQL application with cloud-backed data and AI-assisted features |
+| 🤖 **[ROBOCON 2026](https://github.com/TheNityant/ROBOCON_2026_COMPLETE_BOT)** | Embedded robotics system integrating locomotion, sensing, servo mechanisms, and control |
 
 > More projects and experiments are being documented and published progressively.
 
