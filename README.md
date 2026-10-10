@@ -6,7 +6,7 @@
      ========================================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assests/banner-dark.v3-gif-faithful.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assests/banner-dark.v1.svg">
   <img src="assests/banner-dark.v3-gif-faithful.svg" width="100%" alt="profile.sh --live — Nityant">
 </picture>
 
