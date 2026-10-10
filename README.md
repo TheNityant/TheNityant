@@ -1,110 +1,95 @@
-# PROFILE
+div align="center">
 
-<img
-  align="right"
-  src="https://raw.githubusercontent.com/TheNityant/TheNityant/main/assests/github_nityant_particle_portrait_github_bg_v2.gif"
-  width="230"
-  alt="Animated neural tensor portrait"
-/>
+<!-- Custom animated terminal banner. Pure SVG output generated from scripts/banner/generate.py -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v1.svg">
+  <img src="assets/banner-dark.v1.svg" width="100%" alt="profile.sh --live — Nityant">
+</picture>
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FFA500&vCenter=true&width=520&height=45&lines=Hi+there%2C+I'm+Nityant+%F0%9F%91%BE;I+Explore+LLMs+From+the+Inside;I+Build+AI+Systems;I+Turn+Ideas+Into+Working+Software"
-  alt="Typing SVG"
-/>
-
-<br>
-
-<strong>
-Software Developer exploring AI engineering — from Transformers and LLM internals
-to intelligent systems, backend engineering, and deployment.
-</strong>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/AI%20Engineering-FFA500?style=for-the-badge&logoColor=white"
-  alt="AI Engineering"
-/>
-<img
-  src="https://img.shields.io/badge/LLM%20Internals-30363D?style=for-the-badge&logo=openai&logoColor=white"
-  alt="LLM Internals"
-/>
-<img
-  src="https://img.shields.io/badge/Backend-30363D?style=for-the-badge&logo=serverless&logoColor=white"
-  alt="Backend"
-/>
-<img
-  src="https://img.shields.io/badge/Software%20Systems-30363D?style=for-the-badge&logoColor=white"
-  alt="Software Systems"
-/>
-
-<br><br>
-
-<a href="mailto:nityant.tiwari2404@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
 
 <a href="https://github.com/TheNityant">
   <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FFA500&center=true&vCenter=true&width=880&lines=Nityant+-+Software+Developer+%26+AI+Engineering;LLM+Internals+/+Backend+Systems+/+Intelligent+Software;Understanding+systems+before+abstracting+them"
+    alt="typing banner"
+  >
 </a>
 
-<br><br>
 
-<br clear="right">
+<a href="https://thenityant.runs-on.dev/"><img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>  
+<a href="mailto:nityant.tiwari2404@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FFA500" alt="Email"></a>  
+<a href="https://github.com/TheNityant"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFA500" alt="GitHub"></a>
 
----
+<img src="https://komarev.com/ghpvc/?username=TheNityant&style=flat&color=ffa500&label=profile+views" alt="profile views">
 
-## 🧠 Currently Exploring
+</div>
 
-I'm diving into the foundations of modern AI — from Transformer
-architectures and LLM internals to AI engineering, reasoning systems,
-and deployment.
-
-My approach is simple: **understand what's happening underneath,
-then build with it.**
-
----
-
-## 🔨 Building
-
-- 🧠 **[LLM Visualizer](https://github.com/TheNityant/LLM_Visualizer)** — Exploring and visualizing model internals, tensors, layers, and token-level computation.
-
-- 📓 **[LLM Engineering Notebook](https://github.com/TheNityant/LLM_Notebook)** — An understanding-first exploration of LLM architecture, mechanics, and AI engineering.
-
----
-
-## ⚙️ Technical Focus
-
-**AI Engineering** · Python · Transformers · LLMs · Model Internals · AI Systems  
-**Backend** · Java · Spring Boot · FastAPI · REST APIs · SQL · PostgreSQL · MongoDB  
-**Applications** · Dart · Kotlin · Flutter · JavaScript · Next.js  
-**Embedded & Tools** · STM32 · ESP32 · Git · GitHub
-
-**Background:** TensorFlow · OpenCV · Computer Vision · Embedded Systems · Robotics · Full-Stack Development
-
----
-
-## 🚀 Selected Work
-
-| Project | Focus |
-|---|---|
-| 🧠 **[LLM Visualizer](https://github.com/TheNityant/LLM_Visualizer)** | Interactive exploration of LLM internals, model layers, tensors, and token-level computation |
-| 📓 **[LLM Engineering Notebook](https://github.com/TheNityant/LLM_Notebook)** | Structured, understanding-first study of LLM architecture, mechanics, and engineering |
-| 📱 **[Habit Tracker — Full Stack](https://github.com/TheNityant/HABIT_TRACKER-Full-Stack-app)** | Flutter + Spring Boot + PostgreSQL application with cloud-backed data and AI-assisted features |
-| 🤖 **[ROBOCON 2026](https://github.com/TheNityant/ROBOCON_2026_COMPLETE_BOT)** | Embedded robotics system integrating locomotion, sensing, servo mechanisms, and control |
-
-> More projects and experiments are being documented and published progressively.
-
----
+This is me :)
+Hi, I'm Nityant, a software developer exploring AI engineering and language-model systems.
+I like understanding what happens underneath a system before abstracting it away — from
+Transformers and LLM internals to backend architecture, databases, deployment, and the software
+around intelligent systems.
+- 🧠 Going deeper into Transformers, attention, embeddings, inference, retrieval, reasoning, and evaluation.
+- ⚙️ Building depth in Java, Spring Boot, APIs, databases, testing, concurrency, Linux, and production backend systems.
+- 🔬 Building LLM Visualizer to make model internals visual and inspectable.
+- 📓 Developing LLM Engineering Notebook as an understanding-first environment for architecture, experiments, and implementation.
+- 📱 Built cross-platform applications with Flutter, and backend systems with Spring Boot, FastAPI, PostgreSQL, and MongoDB.
+- 🤖 Previous engineering work includes computer vision, embedded systems, STM32/ESP32, robotics, and ROBOCON systems.
+- 🚀 Interested in software/backend/AI engineering internships, technical collaborations, and meaningful open-source work.
 
 <div align="center">
 
-<i>Building, breaking, understanding, and building again.</i>
+my perfect stack :)
+<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,mongodb,flutter,dart,kotlin,js,nextjs,git,github,docker,tensorflow,opencv&perline=8" alt="tech stack">
 
+</div>
+
+<div align="center">
+
+signals
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-focus-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-focus-light.svg">
+  <img src="assets/radar-focus-dark.svg" width="400" alt="current focus radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-projects-light.svg">
+  <img src="assets/radar-projects-dark.svg" width="400" alt="project exposure radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<sub>Focus / project exposure — not proficiency scores.</sub>
+</div>
+
+<div align="center">
+
+Numbers matter? ohhh yes.
+<img
+  src="https://github-readme-stats.vercel.app/api?username=TheNityant&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&rank_icon=github"
+  height="165"
+  alt="GitHub statistics"
+
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNityant&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9"
+  height="165"
+  alt="Most used languages"
+
+</div>
+
+<div align="center">
+
+<sub>Building · breaking · understanding · building again · @TheNityant</sub>
 </div>
