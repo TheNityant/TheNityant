@@ -2,19 +2,20 @@
 
 <!-- =========================================================
      HERO / TERMINAL BANNER
-     IMPORTANT: this repo folder is named "assests", not "assets".
+     NOTE: this repository folder is intentionally named "assests".
      ========================================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assests/banner-dark.v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assests/banner-light.v1.svg">
-  <img src="assests/banner-dark.v1.svg" width="100%" alt="profile.sh --live — Nityant">
+  <source media="(prefers-color-scheme: dark)" srcset="assests/banner-dark.v3-gif-faithful.svg">
+  <img src="assests/banner-dark.v3-gif-faithful.svg" width="100%" alt="profile.sh --live — Nityant">
 </picture>
 
 
-<!-- Animated identity line, following the same structure as the reference profile -->
 <a href="https://github.com/TheNityant">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FFA500&center=true&vCenter=true&width=880&lines=Nityant+-+Software+Developer+%26+AI+Engineering;LLM+Internals+/+Backend+Systems+/+Intelligent+Software;Building+systems+by+understanding+what+happens+underneath" alt="typing banner">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FFA500&center=true&vCenter=true&width=880&lines=Nityant+-+Software+Developer+%26+AI+Engineering;LLM+Internals+/+Backend+Systems+/+Intelligent+Software;Building+systems+by+understanding+what+happens+underneath"
+    alt="typing banner"
+  >
 </a>
 
 
@@ -31,7 +32,11 @@
 </a>
 
 
-<img src="https://komarev.com/ghpvc/?username=TheNityant&style=flat&color=ffa500&label=profile+views" alt="profile views">
+
+
+<img
+  src="https://komarev.com/ghpvc/?username=TheNityant&style=flat&color=ffa500&label=profile+views"
+  alt="profile views"
 
 </div>
 
@@ -46,45 +51,65 @@ I like understanding what happens underneath a system before abstracting it away
 - 🤖 Previous engineering work includes computer vision, embedded systems, STM32/ESP32, robotics, and ROBOCON systems.
 - 🚀 Interested in software/backend/AI engineering internships, technical collaborations, and meaningful open-source work.
 
-<div align="center">
+<h2 align="center">my perfect stack :)</h2>
 
-my perfect stack :)
-<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,mongodb,flutter,dart,kotlin,js,nextjs,git,github,docker,tensorflow,opencv&perline=8" alt="tech stack">
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,mongodb,flutter,dart,kotlin,js,nextjs,git,github,docker,tensorflow,opencv&perline=8"
+    alt="tech stack"
+  >
+</p>
 
-</div>
 
-<div align="center">
+<h2 align="center">signals</h2>
 
-signals
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="assests/radar-focus-dark.svg" width="400" alt="current focus radar chart">
+<img
+  src="assests/radar-focus-dark.svg"
+  width="400"
+  alt="current focus radar chart"
 
 </td>
+
 <td width="50%" align="center" valign="middle">
 
-<img src="assests/radar-projects-dark.svg" width="400" alt="project exposure radar chart">
+<img
+  src="assests/radar-projects-dark.svg"
+  width="400"
+  alt="project exposure radar chart"
 
 </td>
 </tr>
 </table>
 
-<sub>Focus / project exposure — not proficiency scores.</sub>
-</div>
-
-<div align="center">
-
-Numbers matter? ohhh yes.
-<img src="https://github-readme-stats.vercel.app/api?username=TheNityant&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&rank_icon=github" height="165" alt="GitHub statistics">
+<p align="center">
+  <sub>Focus / project exposure — not proficiency scores.</sub>
+</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNityant&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9" height="165" alt="Most used languages">
+<h2 align="center">Numbers matter? ohhh yes.</h2>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TheNityant&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&rank_icon=github"
+    height="165"
+    alt="GitHub statistics"
+  >
+</p>
 
-<div align="center">
 
-<sub>Building · breaking · understanding · building again · @TheNityant</sub>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNityant&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9"
+    height="165"
+    alt="Most used languages"
+  >
+</p>
+
+
+<p align="center">
+  <sub><code>Building · breaking · understanding · building again · @TheNityant</code></sub>
+</p>
