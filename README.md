@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <!-- Custom animated terminal banner. Pure SVG output generated from scripts/banner/generate.py -->
 <picture>
