@@ -1,3 +1,4 @@
+
 # PROFILE
 
 <img
@@ -103,8 +104,26 @@ then build with it.**
 
 ---
 
+## 🏆 Open Source & Community
+
+<p align="center">
+  <img
+    src="https://github.com/TheNityant/TheNityant/blob/main/assests/hacktoberfest-2026-fest.png"
+    width="180"
+    alt="Hacktoberfest 2026 — Attend an in-person Fest"
+  />
+</p>
+
+<p align="center">
+  <strong>Hacktoberfest 2026</strong><br>
+  Participated in the open-source community through Hacktoberfest events and collaborative development.
+</p>
+
+---
+
 <div align="center">
 
 <i>Building, breaking, understanding, and building again.</i>
 
 </div>
+```
