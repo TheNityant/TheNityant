@@ -21,7 +21,7 @@ to intelligent systems, backend engineering, and deployment.
 </strong>
 
 <br><br>
-<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
+<a href="">
 <img
   src="https://img.shields.io/badge/AI%20Engineering-FFA500?style=for-the-badge&logoColor=white"
   alt="AI Engineering"
@@ -33,13 +33,13 @@ to intelligent systems, backend engineering, and deployment.
   alt="LLM_Internals"
 />
 </a>
-<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
+<a href="https://github.com/TheNityant/HABIT_TRACKER-Full-Stack-app">
 <img
   src="https://img.shields.io/badge/Backend-30363D?style=for-the-badge&logo=serverless&logoColor=white"
   alt="Backend"
 />
 </a>
-<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
+<a href="https://github.com/TheNityant/JIRAYA_PERSONAL_ASSISTANT">
 <img
   src="https://img.shields.io/badge/Software%20Systems-30363D?style=for-the-badge&logoColor=white"
   alt="Software Systems"
