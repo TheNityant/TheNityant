@@ -21,23 +21,30 @@ to intelligent systems, backend engineering, and deployment.
 </strong>
 
 <br><br>
-
+<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
 <img
   src="https://img.shields.io/badge/AI%20Engineering-FFA500?style=for-the-badge&logoColor=white"
   alt="AI Engineering"
 />
+</a>
+<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
 <img
   src="https://img.shields.io/badge/LLM%20Internals-30363D?style=for-the-badge&logo=openai&logoColor=white"
-  alt="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md"
+  alt="LLM_Internals"
 />
+</a>
+<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
 <img
   src="https://img.shields.io/badge/Backend-30363D?style=for-the-badge&logo=serverless&logoColor=white"
   alt="Backend"
 />
+</a>
+<a href="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md">
 <img
   src="https://img.shields.io/badge/Software%20Systems-30363D?style=for-the-badge&logoColor=white"
   alt="Software Systems"
 />
+</a>
 
 <br><br>
 
