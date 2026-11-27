@@ -27,8 +27,8 @@ to intelligent systems, backend engineering, and deployment.
   alt="AI Engineering"
 />
 <img
-  src="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md"
-  alt="LLM Internals"
+  src="https://img.shields.io/badge/LLM%20Internals-30363D?style=for-the-badge&logo=openai&logoColor=white"
+  alt="https://github.com/TheNityant/LLM_Visualizer/blob/main/README.md"
 />
 <img
   src="https://img.shields.io/badge/Backend-30363D?style=for-the-badge&logo=serverless&logoColor=white"
