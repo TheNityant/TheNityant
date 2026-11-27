@@ -16,7 +16,7 @@
 <br>
 
 <strong>
-Software Developer exploring AI engineering — from Transformers and LLM internals
+Software Developer exploring AI engineering from Transformers and LLM internals
 to intelligent systems, backend engineering, and deployment.
 </strong>
 
